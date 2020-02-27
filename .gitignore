@@ -1,0 +1,4 @@
+# Project exclude paths
+/workspace-common/target/
+/workspace-gateway/target/
+/workspace-provider/target/
